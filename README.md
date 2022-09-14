@@ -18,7 +18,7 @@
 
 10.Then import the file from the drive (user_db.sql)
 
-11.Then open ("localhost/login system/asset/register_form.php")
+11.Then open ("---localhost/login system/asset/register_form.php")
 
 12.Then register your details which are asked 
 
